@@ -7,14 +7,6 @@ I build scalable web applications using modern tech with strong backend fundamen
 
 ---
 
-## 🌱 Currently Learning
-- Java  
-- Servlets  
-- Spring MVC  
-- Spring Boot  
-
----
-
 ## 🌐 Portfolio
 🔗 https://sagar-portfolio-nine.vercel.app/
 
